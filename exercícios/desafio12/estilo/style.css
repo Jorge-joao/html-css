@@ -68,13 +68,22 @@ section.imagem{
     color: white;
 }
 section.imagem > p{
-    background-color: rgba(0, 0, 0, 0.219);
+    background-color: rgba(0, 0, 0, 0.397);
     display: inline-block;
     padding: 5px;
 }
 
 section > p{
     padding-bottom: 2em;
+}
+section#img01{
+    background-image: url(../wallpaper001.jpg);
+    background-position: center center;
+}
+
+section#img02{
+    background-image: url(../wallpaper001.jpg);
+    background-position: center center;
 }
 
 footer{
