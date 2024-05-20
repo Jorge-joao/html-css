@@ -52,4 +52,16 @@ menu ul li a{
     color: white;
     border-top: 2px solid gray;
 }
+main{
+    background-color: white;
+    width: 700px;
+    border-radius: 20px;
+    padding: 20px;
+    margin: auto;
+}
+
+main p{
+    padding: 10px;
+    text-indent: 30px;
+}
 
